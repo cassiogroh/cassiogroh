@@ -16,7 +16,6 @@
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
 </p>
 
-<br/>
 <!-- Most used languages -->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiogroh&layout=compact&hide=html&theme=radical" alt="cassiogroh" /></p>
 
@@ -24,7 +23,6 @@
 
 <!-- Github stats -->
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cassiogroh&show_icons=true&theme=radical" alt="cassiogroh" /></p>
-<br/>
 
 <!-- Social media icons -->
 <p align="center">
