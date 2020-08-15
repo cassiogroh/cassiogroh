@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Cassio</h1>
+<h2 align="center">Hi, I'm Cassio</h2>
 <h3 align="center">A passionate Fullstack developer from Brazil</h3>
 
 - 🌱 I’m currently learning **ReactJS and React Native**
@@ -17,15 +17,15 @@
 </p>
 
 <!-- Most used languages -->
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiogroh&layout=compact&hide=html&theme=radical" alt="cassiogroh" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiogroh&layout=compact&hide=html&theme=vue" alt="cassiogroh" /></p>
 
 <br/> -->
 
 <!-- Github stats -->
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cassiogroh&show_icons=true&theme=radical" alt="cassiogroh" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cassiogroh&show_icons=true&theme=vue" alt="cassiogroh" /></p>
 
 <!-- Social media icons -->
 <p align="center">
-  <a href="https://fb.com/cassiogroh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cassiogroh" height="30" width="30" /></a>
-  <a href="https://instagram.com/cassiogroh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cassiogroh" height="30" width="30" /></a>
+  <a href="https://fb.com/cassiogroh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cassiogroh" height="20" width="20" /></a>
+  <a href="https://instagram.com/cassiogroh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cassiogroh" height="20" width="20" /></a>
 </p>
