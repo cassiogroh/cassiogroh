@@ -26,10 +26,8 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cassiogroh&show_icons=true&theme=radical" alt="cassiogroh" /></p>
 <br/>
 
-<!-- Facebook icon -->
+<!-- Social media icons -->
 <p align="center">
-<a href="https://fb.com/cassiogroh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cassiogroh" height="30" width="30" /></a>
-
-<!-- Instagram icon -->
-<a href="https://instagram.com/cassiogroh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cassiogroh" height="30" width="30" /></a>
+  <a href="https://fb.com/cassiogroh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cassiogroh" height="30" width="30" /></a>
+  <a href="https://instagram.com/cassiogroh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cassiogroh" height="30" width="30" /></a>
 </p>
