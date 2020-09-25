@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Cassio</h2>
 <h3 align="center">A passionate Fullstack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **ReactJS and React Native**
+- 🌱 I’m currently spending efforts on **ReactJS and React Native**, as well in NodeJS
 - 👨‍💻 Some of my projects are pinned below
 - 📫 How to reach me: **cassio_groh@hotmail.com**
 - ⚡ Fun fact: **I don't like coffee**
