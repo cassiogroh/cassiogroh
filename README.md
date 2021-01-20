@@ -15,10 +15,54 @@
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cassiogroh&show_icons=true&theme=vue" alt="cassiogroh" /></p> -->
 
 <!-- Social media icons -->
-<!-- <p align="center"> -->
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/cassiogroh)
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/cassiogroh//)
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://fb.com/cassiogroh)
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/cassiogroh/)
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://weatherhub.app/)  
-<!-- </p> -->
+<p align="center">
+  <a href="https://fb.com/cassiogroh" target="blank">
+    <img
+      align="center"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
+      alt="cassiogroh"
+      height="20"
+      width="20"
+    />
+  </a>
+
+  <a href="https://github.com/https://github.com/cassiogroh" target="blank">
+    <img
+      align="center"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"
+      alt="cassiogroh"
+      height="20"
+      width="20"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/cassiogroh//" target="blank">
+    <img
+      align="center"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+      alt="cassiogroh"
+      height="20"
+      width="20"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/https://instagram.com/cassiogroh/" target="blank">
+    <img
+      align="center"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
+      alt="cassiogroh"
+      height="20"
+      width="20"
+    />
+  </a>
+
+  <a href="https://weatherhub.app/" target="blank">
+    <img
+      align="center"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg"
+      alt="cassiogroh"
+      height="20"
+      width="20"
+    />
+  </a>
+</p>
