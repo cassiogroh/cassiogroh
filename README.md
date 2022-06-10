@@ -16,7 +16,7 @@
 
 <!-- Social media icons -->
 <p align="center">
-  <a href="https://fb.com/cassiogroh" target="blank">
+  <a href="https://fb.com/cassiogroh" target="_blank">
     <img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
@@ -26,7 +26,7 @@
     />
   </a>
 
-  <a href="https://github.com/cassiogroh" target="blank">
+  <a href="https://github.com/cassiogroh" target="_blank">
     <img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"
@@ -36,7 +36,7 @@
     />
   </a>
 
-  <a href="https://www.linkedin.com/in/cassiogroh" target="blank">
+  <a href="https://www.linkedin.com/in/cassiogroh" target="_blank">
     <img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
@@ -46,7 +46,7 @@
     />
   </a>
 
-  <a href="https://www.instagram.com/cassiogroh" target="blank">
+  <a href="https://www.instagram.com/cassiogroh" target="_blank">
     <img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
@@ -56,7 +56,7 @@
     />
   </a>
 
-  <a href="https://weatherhub.app" target="blank">
+  <a href="https://weatherhub.app" target="_blank">
     <img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg"
