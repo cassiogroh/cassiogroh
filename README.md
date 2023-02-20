@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Cassio</h2>
-<h3 align="center">A passionate Software Engineer from Brazil</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - I’m currently working with **React & Google Cloud**
 - Some of my projects are pinned below
