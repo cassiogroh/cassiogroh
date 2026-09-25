@@ -1,11 +1,6 @@
 <h2 align="center">Hi, I'm Cassio</h2>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- I’m currently working with **React & Google Cloud**
-- Some of my projects are pinned below
-- How to reach me: **cassio_groh@hotmail.com**
-- Fun fact: **I don't like coffee**
-
 <!-- Most used languages -->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiogroh&layout=compact&hide=html&theme=vue" alt="cassiogroh" /></p>
 
